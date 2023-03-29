@@ -1,0 +1,63 @@
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb

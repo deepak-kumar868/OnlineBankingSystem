@@ -1,0 +1,75 @@
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Online Banking - Copy - Copy - Copy\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CopyComplete
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+C:\Users\DKUMA228\Downloads\CaseStudy - Final (1)\CaseStudy - Final\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache

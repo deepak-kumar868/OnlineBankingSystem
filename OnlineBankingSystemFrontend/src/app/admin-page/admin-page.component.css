@@ -1,0 +1,141 @@
+button{
+    outline: none;
+    border: none;
+    background: transparent;
+}
+.AdminContainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+.adminHeaderSection{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 5px 5px 10px 5px;
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);    
+    height: 5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.adminHeaderSection .searchSection{
+    display: flex;
+    justify-content: flex-start;
+}
+.adminHeaderSection .searchSection input{
+    width: 200px;
+    height: 2rem;
+    outline: none;
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.142);
+}
+.adminHeaderSection .searchSection input,
+.adminHeaderSection .searchSection h2,
+.adminHeaderSection .searchSection div{
+    position:absolute;
+}
+.adminHeaderSection .searchSection input{
+    position:initial;
+}
+.adminHeaderSection .searchSection h2{
+    left: 10rem;
+    font-size: 30px;
+}
+.adminHeaderSection .searchSection div{
+    right: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.adminHeaderSection .searchSection div button{
+    background: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.142);
+    padding: 3px;
+}
+.adminHeaderSection .searchSection .headerLogoImg{
+    width: 3rem;
+    height: 3rem;
+    left: 5rem;
+    top: 1rem;
+    position:absolute;
+}
+.adminHeaderSection .searchSection div img{
+    width: 1.5rem;
+    height: 1.5rem;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    cursor: pointer;
+}
+.adminMainSection{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+    padding: 5px;
+    color: white;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+.adminMainSection .adminMain_customerDetails,
+.adminMainSection .adminMain_customerDetails ul{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.adminMainSection .adminMain_customerDetails ul li{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.adminMainSection .adminMain_customerDetails ul li img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50px;
+}
+.adminMainSection .adminMain_customerDetails ul{
+    margin-top: 2rem;
+}
+.adminMainSection .adminMain_customerDetails ul span,
+.adminMainSection .adminMain_customerDetails ul h3{
+    margin-left: 20px;
+    transition: 0.5s;
+    padding: 3px;
+}
+.adminMainSection .adminMain_customerDetails ul .userDetailslink:hover{
+  color: rgb(4, 109, 255);
+  box-shadow: 0px 0px 10px rgb(6, 240, 244);
+  cursor: pointer;
+  border-radius: 10px;
+}
+.adminMainSection .adminMain_customerDetails ul ul li img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50px;
+}
+.adminMainSection .adminMain_customerDetails ul ul li button{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 10px;
+    cursor: pointer;
+}

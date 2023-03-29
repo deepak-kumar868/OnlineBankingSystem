@@ -1,0 +1,69 @@
+<div class="account_Details_Container">
+     
+     <app-navbar></app-navbar>
+     <section class="main_accountDetailsSection">
+         <div class="cardsSection">
+            <div (click)="getCard(1)" class="card changePassword">
+                <div>
+                    <h3>Change Password</h3>
+                    <img src="../../assets/Image/dollar.png" alt="bankPng">
+                </div>
+            </div>
+            <div (click)="getCard(2)" class="card accountSummary">
+                <div>
+                    <h3>Account Summary</h3>
+                    <img src="../../assets/Image/dollar.png" alt="bankPng">
+                </div>
+            </div>
+            <div (click)="getCard(3)" class="card recentTransaction">
+                <div>
+                    <h3>Recent Transaction</h3>
+                    <img src="../../assets/Image/dollar.png" alt="bankPng">
+                </div>
+            </div>
+            <div (click)="getCard(4)" class="card recentTransaction">
+                <div>
+                    <h3>Order CheckBook</h3>
+                    <img src="../../assets/Image/dollar.png" alt="bankPng">
+                </div>
+            </div>
+         </div>
+     </section>
+     <div class="popUpCard popUp_changePassword" id="popUp_changePassword">
+        <div class="popUpCard_header">
+            <span>change Password</span>
+            <button><img src="../../assets/Image/close.png" alt="" (click) = "removeCard(1)"></button>
+        </div>
+        <div class="popUpCard_main">
+            <input type="text" placeholder="Enter old passwrod" id="OldPassword">
+            <button (click)="verifyOldPassword()">verify</button>
+        </div>
+        <div class="popUpCard_footer">
+            <input id="newPassword" type="text" placeholder="Enter new passwrod">
+            <button (click) = "verifyNewPassword()">Submit</button>
+        </div>
+     </div>
+     <div class="popUpCard popUp_accountSummary" id="popUp_accountSummary">
+        <div class="popUpCard_header">
+            <span>Account Summary</span>
+            <button><img src="../../assets/Image/close.png" alt="" (click) = "removeCard(2)"></button>
+        </div>
+        <div class="popUpCard_main">
+            <button>Check Balance</button>
+            <h2>xxxxxxxx</h2>
+        </div>
+     </div>
+     <div class="popUpCard popUp_recentTransaction" id="popUp_recentTransaction">
+        <div class="popUpCard_header">
+            <span>Recent Transaction</span>
+            <button><img src="../../assets/Image/close.png" alt="" (click) = "removeCard(3)"></button>
+        </div>
+        <button class="popUpCard_main" (click)="getTransectionList()">Check history</button>
+        <div class="transectionHistoryContainer popUpCard_footer" *ngIf="TransectionList.length > 0; else emptyTransactionList" >
+            <li *ngFor="let transection of TransectionList">
+                transection - xxxxx - dd/mm/yy
+            </li>
+        </div>
+        <ng-template #emptyTransactionList><h4 class="emptyListTag">Empty transection history</h4></ng-template>
+     </div>
+</div>

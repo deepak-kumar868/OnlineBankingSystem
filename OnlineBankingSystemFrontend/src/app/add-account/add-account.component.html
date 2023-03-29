@@ -1,0 +1,54 @@
+<div class="container my-5" style="background-image: url(https://img.freepik.com/premium-photo/double-exposure-coin-pile-is-city-black_2034-135.jpg?w=1060);">
+    <h1 class="mb-3" style="color: brown;display: flex; justify-content: center;">Add New Account</h1>
+     <div class="row">
+     <div class="col-6">
+        <form #from="ngForm" (ngSubmit)="addAccount()" id="addForm">
+            <div class="mb-3">
+                <label for="Id" class="form-label">Id</label>
+                <input type="number" class="form-control" id="name" name="id" [(ngModel)]="addAccountRequest.customerId">
+            </div>
+            <div class="mb-3">
+                <label for="Name" class="form-label">Name</label>
+                <input type="text" class="form-control" id="name" name="name" [(ngModel)]="addAccountRequest.customerName">
+            </div>
+            <div class="mb-3">
+                <label for="Address" class="form-label">Address</label>
+                <input type="text" class="form-control" id="name" name="address" [(ngModel)]="addAccountRequest.customerAddress">
+            </div>
+            <div class="mb-3">
+                <label for="Age" class="form-label">Age</label>
+                <input type="number" class="form-control" id="name" name="age" [(ngModel)]="addAccountRequest.customerAge">
+            </div>
+            <div class="mb-3">
+                <label for="PhoneNo" class="form-label">PhoneNo</label>
+                <input type="text" class="form-control" id="name" name="phoneNo" [(ngModel)]="addAccountRequest.customerPhNo">
+            </div>
+            <div class="mb-3">
+                <label for="Dob" class="form-label">Dob</label>
+                <input type="date" class="form-control" id="name" name="DOB" [(ngModel)]="addAccountRequest.dob">
+            </div>
+            <div class="mb-3">
+                <label for="AccountNo" class="form-label">AccountNo</label>
+                <input type="text" class="form-control" id="name" name="accountNo" [(ngModel)]="addAccountRequest.accountNo">
+            </div>
+            <div class="mb-3">
+                <label for="AccountType" class="form-label">AccountType</label>
+                <input type="number" class="form-control" id="name" name="accountType" [(ngModel)]="addAccountRequest.accountTypeId">
+            </div>
+            <div class="mb-3">
+                <label for="Balance" class="form-label">Balance</label>
+                <input type="number" class="form-control" id="name" name="balance" readonly [(ngModel)]="addAccountRequest.balance">
+            </div>
+            <div class="mb-3">
+                <label for="Branch" class="form-label">Branch</label>
+                <input type="text" class="form-control" id="name" name="branch" [(ngModel)]="addAccountRequest.branch">
+            </div>
+            <div class="mb-3">
+                <label for="Role" class="form-label">Role</label>
+                <input type="text" class="form-control" id="name" name="role"[(ngModel)]="addAccountRequest.customerType">
+            </div>
+            <button type="submit" class="btn btn-primary mr-5" form="addForm">Add</button>
+        </form>
+    </div>
+</div>
+</div>

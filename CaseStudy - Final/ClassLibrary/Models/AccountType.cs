@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+
+#nullable disable
+
+namespace DAL.Models
+{
+    public partial class AccountType
+    {
+        public AccountType()
+        {
+            Accounts = new HashSet<Account>();
+        }
+
+        public int AccountTypeId { get; set; }
+        public string AccountTyp { get; set; }
+        public double? MinBalance { get; set; }
+        public int? Interest { get; set; }
+        public int? TransactionLimit { get; set; }
+
+        public virtual ICollection<Account> Accounts { get; set; }
+    }
+}

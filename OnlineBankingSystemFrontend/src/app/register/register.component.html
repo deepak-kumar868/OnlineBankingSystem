@@ -1,0 +1,31 @@
+<div id="background">
+    <div id="loginForm">
+       <div id="loginRegister">
+          <ul>
+            <li><a [routerLink]="['../login']" class="login">SIGN IN</a></li>
+             <li class="active">SIGN UP</li>
+          </ul>
+       </div>
+       <form #form="ngForm" (ngSubmit)="registerUser()" id="registerform">
+          <label>Username</label>
+          <input type="text" name="name" class="textEnter" [(ngModel)]="registerCustomerRequest.UserName">
+
+          <label>Password</label>
+          <input class="textEnter" name="password" type="password" [(ngModel)]="registerCustomerRequest.Password">
+
+          <label>Confirm Password</label>
+          <input class="textEnter" name="confirmPassword" type="password" [(ngModel)]="registerCustomerRequest.ConfirmPassword">
+          <label>Phone</label>
+          <input class="textEnter" name="phone" type="phone" [(ngModel)]="registerCustomerRequest.MobileNo">
+
+          <label>Account Number</label>
+          <input class="textEnter" name="account" type="text" [(ngModel)]="registerCustomerRequest.AccountNo">
+          <label>Role</label>
+          <input class="textEnter" name="account" type="text" [(ngModel)]="registerCustomerRequest.Role">
+          <button id="signInButton" type="submit" form="registerform">SIGN UP</button>
+       </form>
+       <hr/>
+       <p>
+          <a id="forgotPassword" href="#">Forgot Password?</a></p>
+    </div>
+ </div>

@@ -1,0 +1,45 @@
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Original one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\CSREEYA\source\repos\.net\ASP.NET\Case Study Project\CaseStudy - Trail one\ClassLibrary\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

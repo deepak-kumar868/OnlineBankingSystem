@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UILayer", "UILayer\UILayer.csproj", "{00511784-C21F-4406-A915-3478A8CF1B2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{A1A6C481-4E5B-4746-9FC9-5FB7B08BC8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALayer", "DALayer\DALayer.csproj", "{4D4E8894-38B2-4882-B93C-777435C54365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00511784-C21F-4406-A915-3478A8CF1B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00511784-C21F-4406-A915-3478A8CF1B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00511784-C21F-4406-A915-3478A8CF1B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00511784-C21F-4406-A915-3478A8CF1B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A6C481-4E5B-4746-9FC9-5FB7B08BC8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A6C481-4E5B-4746-9FC9-5FB7B08BC8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A6C481-4E5B-4746-9FC9-5FB7B08BC8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A6C481-4E5B-4746-9FC9-5FB7B08BC8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4E8894-38B2-4882-B93C-777435C54365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4E8894-38B2-4882-B93C-777435C54365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4E8894-38B2-4882-B93C-777435C54365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4E8894-38B2-4882-B93C-777435C54365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E54156B-9CD0-4395-A883-09525CA2C851}
+	EndGlobalSection
+EndGlobal

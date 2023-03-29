@@ -1,0 +1,108 @@
+<!-- <<div class="AdminContainer">
+   <section class="adminHeaderSection">
+     <div class="searchSection">
+        <img class="headerLogoImg" src="../../assets/Image/user-gear.png" alt="adminImg">
+        <h2>Admin Page</h2>
+        <div>
+            <input placeholder="search customer detail" data-searchInput = 'searchInput' type="text" id="searchInput">
+            <button (click) = 'getSearchedInput()' class="searchBtn" type="button"><img src="../../assets/Image/seo.png" alt="searchBtn"></button>
+        </div>
+     </div>
+   </section>
+   <section class="adminMainSection">
+    <div class="adminMain_customerDetails">
+        <h1>Customer Details</h1>
+        <ul>
+            <li>
+                <img src='../../assets/Image/user.png' alt="userImg">
+                <h3 class="headerUserDetails">User ID</h3>
+                <h3 class="headerUserDetails">User Name</h3>
+                <h3 class="headerUserDetails">User Address</h3>
+                <h3 class="headerUserDetails">User Age</h3>
+                <h3 class="headerUserDetails">User DOB</h3>
+                <h3 class="headerUserDetails">User Phone no.</h3>
+                <h3 class="headerUserDetails">User Account no.</h3>
+                
+                <h3 class="headerUserDetails">User Transaction details</h3>
+            </li>
+            <div *ngIf="userList.length == 0; else searchedList">
+                <ul *ngFor="let detail of CustomerDetails">
+                    <li>
+                    <img src={{detail.imgSrc}} alt="userImg">
+                    <span class="userDetails">{{detail.id}}</span>
+                    <span class="userDetails">{{detail.name}}</span>
+                    <span class="userDetails">{{detail.address}}</span>
+                    <span class="userDetails">{{detail.age}}</span>
+                    <span class="userDetails">{{detail.dob}}</span>
+                    <span class="userDetails">{{detail.phone}}</span>
+                    <span class="userDetails">{{detail.account}}</span>
+                    
+                    <span class="userDetailslink">{{detail.transactionDetails}}</span>
+                    <button><img src='../../assets/Image/edit.png' alt="editBtn"></button>
+                    <button><img src='../../assets/Image/delete.png' alt="editBtn"></button>
+                    </li>
+                </ul>
+            </div>
+            <ng-template #searchedList>
+                <ul *ngFor="let detail of userList">
+                    <li>
+                    <img src={{detail.imgSrc}} alt="userImg">
+                    <span class="userDetails">{{detail.id}}</span>
+                    <span class="userDetails">{{detail.name}}</span>
+                    <span class="userDetails">{{detail.address}}</span>
+                    <span class="userDetails">{{detail.age}}</span>
+                    <span class="userDetails">{{detail.dob}}</span>
+                    <span class="userDetails">{{detail.phone}}</span>
+                    <span class="userDetails">{{detail.account}}</span>
+                    
+                    <span class="userDetailslink">{{detail.transactionDetails}}</span>
+                    <button><img src='../../assets/Image/edit.png' alt="editBtn"></button>
+                    <button><img src='../../assets/Image/delete.png' alt="editBtn"></button>
+                    </li>
+                </ul>
+            </ng-template>
+        </ul>
+    </div>
+   </section>
+</div>  -->
+
+<app-navbar></app-navbar>
+<div class="container my-5" style="position: absolute; top: 10%;left: 2%;">
+    <h1 class="mb-3">Customer List</h1>
+
+    <table class="table" *ngIf="account && account.length>0" style="color:rgb(163, 6, 6);font-weight: 400;">
+        <thead>
+            <th>CustomerId</th>
+            <th>CustomerName</th>
+            <th>CustomerAddress</th>
+            <th>CustomerAge</th>
+            <th>CustomerPhNo</th>
+            <th>Dob</th>
+            <th>AccountNo</th>
+            <!-- <th>Ifsc</th> -->
+            <th>AccountTypeId</th>
+            <th>Balance</th>
+            <th>Branch</th>
+            <th>CustomerType</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let x of account">
+                <td>{{x.customerId}}</td>
+                <td>{{x.customerName}}</td>
+                <td>{{x.customerAddress}}</td>
+                <td>{{x.customerAge}}</td>
+                <td>{{x.customerPhNo}}</td>
+                <td>{{x.dob}}</td>
+                <td>{{x.accountNo}}</td>
+                <!-- <td>{{x.ifsc}}</td> -->
+                <td>{{x.accountTypeId}}</td>
+                <td>{{x.balance}}</td>
+                <td>{{x.branch}}</td>
+                <td>{{x.customerType}}</td>
+                <td><a [routerLink]="['account','update',x.customerId]">View</a></td>
+            </tr>
+        </tbody>
+    </table>
+    <p *ngIf="!account || account.length<=0">No Account found!!</p>
+    <button [routerLink]="'/admin/account/add'" class="btn btn-primary" style="background-color: black;">Add New Customer</button>
+</div>

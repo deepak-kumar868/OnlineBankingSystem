@@ -1,0 +1,24 @@
+<div id="background">
+    <div id="loginForm">
+       <div id="loginRegister">
+          <ul>
+              <li class="active">SIGN IN</li>
+            <li><a [routerLink]="['../register']" class="register">SIGN UP</a></li>
+          </ul>
+       </div>
+       <form #form="ngForm" (ngSubmit)="loginUser()">
+          <label>USERNAME</label>
+          <input type="text" name="name" class="textEnter"  [(ngModel)]="loginCustomerRequest.UserName">
+          <label>PASSWORD</label>
+          <input class="textEnter" name="password" type="password" [(ngModel)]="loginCustomerRequest.Password">
+          <label>Role(Customer/Admin)</label>
+          <input class="textEnter" name="password" type="text" [(ngModel)]="loginCustomerRequest.Role">
+          <!-- <input id="keepMeInCheck" type="checkbox" [(ngModel)]="loginCustomerRequest.Password"> -->
+          <!-- <label id="keepMeInCheckLabel">Keep me Signed in</label> -->
+          <button id="signInButton" type="submit">SIGN IN</button>
+       </form>
+       <hr/>
+       <p>
+          <a id="forgotPassword" href="#">Forgot Password?</a></p>
+    </div>
+ </div>

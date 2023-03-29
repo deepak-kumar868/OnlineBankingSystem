@@ -1,0 +1,65 @@
+﻿@model IEnumerable<EntityLayer.CustomerModel>
+
+@{
+    ViewData["Title"] = "ShowAllCustomers";
+}
+
+<h1>ShowAllCustomers</h1>
+
+<p>
+    <a asp-action="AddCustomer">Add New Customer</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerPhNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAge)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dob)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerPhNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerAge)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dob)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "UpdateCustomer", new { id = item.CustomerId }) |
+                @Html.ActionLink("Details", "ShowByCustId", new {id=item.CustomerId}) |
+                @Html.ActionLink("Delete", "DeleteCustomer", new { id = item.CustomerId})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
